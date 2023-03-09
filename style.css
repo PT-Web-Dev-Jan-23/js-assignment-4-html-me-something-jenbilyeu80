@@ -1,0 +1,54 @@
+ #mainHeading{color:red;
+    font-size: 70px; 
+    margin: 0px;
+    text-align: center;}
+ #testP{color:green}   
+
+ p.class{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    color:purple
+
+}
+summary 
+    {text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+    margin: 0 px;
+}
+
+body{background-color:#ecb2ec;
+     margin:8px}
+
+main {
+        width:1000px;
+        margin-left: 300px;
+        align-content: center;
+    }
+
+
+article {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+ul li{ 
+    display: inline-block;
+    border: 1px solid white;
+    margin-left:15px;
+    padding: 15px 15px;
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+
+footer {
+    text-align: right;
+    color: black;
+}
+
+a {color:blue}
